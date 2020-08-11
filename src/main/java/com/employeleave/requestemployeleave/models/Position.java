@@ -2,7 +2,7 @@ package com.employeleave.requestemployeleave.models;
 
 import javax.persistence.*;
 import java.sql.Timestamp;
-// udah di edit //
+// udah di edit position//
 @Entity
 @Table(name = "position",schema = "public")
 
